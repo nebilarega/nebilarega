@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nebilarega
 - 👀 I’m interested in everything tech
 - 🌱 I’m currently learning communicaion engineering in uni
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : nebil.arega.she@gmail.com
 
 <!---
