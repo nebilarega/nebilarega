@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @nebilarega
-- 👀 I’m interested in everything tech
-- 📫 How to reach me : nebil.arega.she@gmail.com
+- ✌🏼 Nebil
+- Reach me : nebil.arega.she@gmail.com
 
 <!---
 nebilarega/nebilarega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
