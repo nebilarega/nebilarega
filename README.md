@@ -19,7 +19,7 @@
   <a href="mailto:narega678@gmail.com">email</a>
 </p>
 
-I like making stuff you can poke at: sites, 3D scenes, APIs, little tools, and experiments that sit somewhere between software and research. Frontend, backend, cloud, a bit of blockchain, a bit of hardware-adjacent tinkering — whatever the thing needs.
+I like making stuff you can poke at: sites, 3D scenes, APIs, little tools, and experiments that sit somewhere between software and research. Frontend, backend, cloud, a bit of blockchain, a bit of hardware-adjacent tinkering, whatever the thing needs.
 
 ### around here
 
@@ -41,4 +41,4 @@ I like making stuff you can poke at: sites, 3D scenes, APIs, little tools, and e
   <img src="https://img.shields.io/badge/web3-24292f?style=flat" alt="web3" />
 </p>
 
-The stack is just the toolbox. React, Next, Svelte, Vue, Node, Nest, Flask, Three.js, Postgres, Redis, AWS, GCP — I pick what fits.
+The stack is just the toolbox. React, Next, Svelte, Vue, Node, Nest, Flask, Three.js, Postgres, Redis, AWS, GCP. I pick what fits.
