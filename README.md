@@ -10,17 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://nebilarega.github.io/landing-page">website</a>
+  <a href="https://nebilarega.et/">website</a>
   ·
   <a href="https://www.linkedin.com/in/nebil-arega">linkedin</a>
   ·
   <a href="https://x.com/Nebil_Arega">x</a>
   ·
   <a href="mailto:narega678@gmail.com">email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nebilarega&label=profile%20views&color=24292f&style=flat" alt="profile views" />
 </p>
 
 I like making stuff you can poke at: sites, 3D scenes, APIs, little tools, and experiments that sit somewhere between software and research. Frontend, backend, cloud, a bit of blockchain, a bit of hardware-adjacent tinkering — whatever the thing needs.
@@ -46,8 +42,3 @@ I like making stuff you can poke at: sites, 3D scenes, APIs, little tools, and e
 </p>
 
 The stack is just the toolbox. React, Next, Svelte, Vue, Node, Nest, Flask, Three.js, Postgres, Redis, AWS, GCP — I pick what fits.
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nebilarega&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebilarega&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
